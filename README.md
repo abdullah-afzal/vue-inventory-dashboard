@@ -17,11 +17,11 @@ A simple Vue 3 web application featuring:
 ## Project Structure
 ```bash
 src/
-├── assets/
 ├── components/
 │   ├── RevenueCharts.vue
-│   ├── ProductForm.vue
 │   ├── InventoryTable.vue
+│   ├── Sidebar.vue
+│   ├── TopBar.vue
 ├── views/
 │   ├── RevenueAnalysis.vue
 │   ├── InventoryManagement.vue
