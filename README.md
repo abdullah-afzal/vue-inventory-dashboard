@@ -40,7 +40,7 @@ src/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/vue-inventory-dashboard.git
+git clone https://github.com/abdullah-afzal/vue-inventory-dashboard.git
 cd vue-inventory-dashboard
 ````
 
